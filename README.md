@@ -1,4 +1,4 @@
-🌌 MR. KODA CODE 🚀
+##  MR. KODA CODE 
 
 - 🎮 Game Developer | Game Maker Studio
 - 💻 Learning C to dominate the world
